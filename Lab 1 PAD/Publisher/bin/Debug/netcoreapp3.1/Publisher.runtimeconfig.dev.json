@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/stratanion/.dotnet/store/|arch|/|tfm|",
+      "/Users/stratanion/.nuget/packages"
+    ]
+  }
+}

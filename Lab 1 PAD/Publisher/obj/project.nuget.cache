@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z56bvcRR1v4RaR5BZf/3UYZ+7PUlmHMknpNL6/MldhTqsbIkyAB/oSfVIq7OyTp6HXQs5IPY9wwzlZbHMLQk8w==",
+  "success": true,
+  "projectFilePath": "/Users/stratanion/Desktop/PAD1/Publisher/Publisher.csproj",
+  "expectedPackageFiles": [
+    "/Users/stratanion/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

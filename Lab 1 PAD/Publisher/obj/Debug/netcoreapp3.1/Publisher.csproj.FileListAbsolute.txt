@@ -1,0 +1,41 @@
+C:/Users/dimad/source/repos/Lab 1 PAD/Publisher/bin/Debug/netcoreapp3.1/Publisher.exe
+C:/Users/dimad/source/repos/Lab 1 PAD/Publisher/obj/Debug/netcoreapp3.1/Publisher.csprojAssemblyReference.cache
+C:/Users/dimad/source/repos/Lab 1 PAD/Publisher/obj/Debug/netcoreapp3.1/Publisher.AssemblyInfoInputs.cache
+C:/Users/dimad/source/repos/Lab 1 PAD/Publisher/obj/Debug/netcoreapp3.1/Publisher.AssemblyInfo.cs
+C:/Users/dimad/source/repos/Lab 1 PAD/Publisher/bin/Debug/netcoreapp3.1/Publisher.deps.json
+C:/Users/dimad/source/repos/Lab 1 PAD/Publisher/bin/Debug/netcoreapp3.1/Publisher.runtimeconfig.json
+C:/Users/dimad/source/repos/Lab 1 PAD/Publisher/bin/Debug/netcoreapp3.1/Publisher.runtimeconfig.dev.json
+C:/Users/dimad/source/repos/Lab 1 PAD/Publisher/bin/Debug/netcoreapp3.1/Publisher.dll
+C:/Users/dimad/source/repos/Lab 1 PAD/Publisher/bin/Debug/netcoreapp3.1/Publisher.pdb
+C:/Users/dimad/source/repos/Lab 1 PAD/Publisher/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/dimad/source/repos/Lab 1 PAD/Publisher/obj/Debug/netcoreapp3.1/Publisher.csproj.CopyComplete
+C:/Users/dimad/source/repos/Lab 1 PAD/Publisher/obj/Debug/netcoreapp3.1/Publisher.dll
+C:/Users/dimad/source/repos/Lab 1 PAD/Publisher/obj/Debug/netcoreapp3.1/Publisher.pdb
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Publisher/bin/Debug/netcoreapp3.1/Publisher.exe
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Publisher/bin/Debug/netcoreapp3.1/Publisher.deps.json
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Publisher/bin/Debug/netcoreapp3.1/Publisher.runtimeconfig.json
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Publisher/bin/Debug/netcoreapp3.1/Publisher.runtimeconfig.dev.json
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Publisher/bin/Debug/netcoreapp3.1/Publisher.dll
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Publisher/bin/Debug/netcoreapp3.1/Publisher.pdb
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Publisher/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Publisher/obj/Debug/netcoreapp3.1/Publisher.AssemblyInfoInputs.cache
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Publisher/obj/Debug/netcoreapp3.1/Publisher.AssemblyInfo.cs
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Publisher/obj/Debug/netcoreapp3.1/Publisher.csproj.CoreCompileInputs.cache
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Publisher/obj/Debug/netcoreapp3.1/Publisher.csproj.CopyComplete
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Publisher/obj/Debug/netcoreapp3.1/Publisher.dll
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Publisher/obj/Debug/netcoreapp3.1/Publisher.pdb
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Publisher/obj/Debug/netcoreapp3.1/Publisher.genruntimeconfig.cache
+/Users/stratanion/Desktop/PAD1/Publisher/obj/Debug/netcoreapp3.1/Publisher.dll
+/Users/stratanion/Desktop/PAD1/Publisher/obj/Debug/netcoreapp3.1/Publisher.pdb
+/Users/stratanion/Desktop/PAD1/Publisher/bin/Debug/netcoreapp3.1/Publisher.deps.json
+/Users/stratanion/Desktop/PAD1/Publisher/bin/Debug/netcoreapp3.1/Publisher.runtimeconfig.json
+/Users/stratanion/Desktop/PAD1/Publisher/bin/Debug/netcoreapp3.1/Publisher.runtimeconfig.dev.json
+/Users/stratanion/Desktop/PAD1/Publisher/bin/Debug/netcoreapp3.1/Publisher.dll
+/Users/stratanion/Desktop/PAD1/Publisher/bin/Debug/netcoreapp3.1/Publisher.pdb
+/Users/stratanion/Desktop/PAD1/Publisher/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/stratanion/Desktop/PAD1/Publisher/obj/Debug/netcoreapp3.1/Publisher.csprojAssemblyReference.cache
+/Users/stratanion/Desktop/PAD1/Publisher/obj/Debug/netcoreapp3.1/Publisher.csproj.CoreCompileInputs.cache
+/Users/stratanion/Desktop/PAD1/Publisher/obj/Debug/netcoreapp3.1/Publisher.AssemblyInfoInputs.cache
+/Users/stratanion/Desktop/PAD1/Publisher/obj/Debug/netcoreapp3.1/Publisher.AssemblyInfo.cs
+/Users/stratanion/Desktop/PAD1/Publisher/obj/Debug/netcoreapp3.1/Publisher.csproj.CopyComplete
+/Users/stratanion/Desktop/PAD1/Publisher/obj/Debug/netcoreapp3.1/Publisher.genruntimeconfig.cache
