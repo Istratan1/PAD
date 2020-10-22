@@ -1,0 +1,42 @@
+C:/Users/dimad/source/repos/Lab 1 PAD/Broker/bin/Debug/netcoreapp3.1/Broker.exe
+C:/Users/dimad/source/repos/Lab 1 PAD/Broker/bin/Debug/netcoreapp3.1/Broker.deps.json
+C:/Users/dimad/source/repos/Lab 1 PAD/Broker/bin/Debug/netcoreapp3.1/Broker.runtimeconfig.json
+C:/Users/dimad/source/repos/Lab 1 PAD/Broker/bin/Debug/netcoreapp3.1/Broker.runtimeconfig.dev.json
+C:/Users/dimad/source/repos/Lab 1 PAD/Broker/bin/Debug/netcoreapp3.1/Broker.dll
+C:/Users/dimad/source/repos/Lab 1 PAD/Broker/bin/Debug/netcoreapp3.1/Broker.pdb
+C:/Users/dimad/source/repos/Lab 1 PAD/Broker/obj/Debug/netcoreapp3.1/Broker.csprojAssemblyReference.cache
+C:/Users/dimad/source/repos/Lab 1 PAD/Broker/obj/Debug/netcoreapp3.1/Broker.AssemblyInfoInputs.cache
+C:/Users/dimad/source/repos/Lab 1 PAD/Broker/obj/Debug/netcoreapp3.1/Broker.AssemblyInfo.cs
+C:/Users/dimad/source/repos/Lab 1 PAD/Broker/obj/Debug/netcoreapp3.1/Broker.dll
+C:/Users/dimad/source/repos/Lab 1 PAD/Broker/obj/Debug/netcoreapp3.1/Broker.pdb
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Broker/bin/Debug/netcoreapp3.1/Broker.exe
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Broker/bin/Debug/netcoreapp3.1/Broker.deps.json
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Broker/bin/Debug/netcoreapp3.1/Broker.runtimeconfig.json
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Broker/bin/Debug/netcoreapp3.1/Broker.runtimeconfig.dev.json
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Broker/bin/Debug/netcoreapp3.1/Broker.dll
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Broker/bin/Debug/netcoreapp3.1/Broker.pdb
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Broker/obj/Debug/netcoreapp3.1/Broker.AssemblyInfoInputs.cache
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Broker/obj/Debug/netcoreapp3.1/Broker.AssemblyInfo.cs
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Broker/obj/Debug/netcoreapp3.1/Broker.dll
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Broker/obj/Debug/netcoreapp3.1/Broker.pdb
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Broker/obj/Debug/netcoreapp3.1/Broker.genruntimeconfig.cache
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Broker/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Broker/obj/Debug/netcoreapp3.1/Broker.csproj.CoreCompileInputs.cache
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Broker/obj/Debug/netcoreapp3.1/Broker.csproj.CopyComplete
+C:/Users/dimad/source/repos/Lab 1 PAD/Broker/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/dimad/source/repos/Lab 1 PAD/Broker/obj/Debug/netcoreapp3.1/Broker.csproj.CopyComplete
+E:/UTM/Anul IV/PAD/Lab1/PAD1/Broker/obj/Debug/netcoreapp3.1/Broker.csprojAssemblyReference.cache
+/Users/stratanion/Desktop/PAD1/Broker/bin/Debug/netcoreapp3.1/Broker.deps.json
+/Users/stratanion/Desktop/PAD1/Broker/bin/Debug/netcoreapp3.1/Broker.runtimeconfig.json
+/Users/stratanion/Desktop/PAD1/Broker/bin/Debug/netcoreapp3.1/Broker.runtimeconfig.dev.json
+/Users/stratanion/Desktop/PAD1/Broker/bin/Debug/netcoreapp3.1/Broker.dll
+/Users/stratanion/Desktop/PAD1/Broker/bin/Debug/netcoreapp3.1/Broker.pdb
+/Users/stratanion/Desktop/PAD1/Broker/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/stratanion/Desktop/PAD1/Broker/obj/Debug/netcoreapp3.1/Broker.csprojAssemblyReference.cache
+/Users/stratanion/Desktop/PAD1/Broker/obj/Debug/netcoreapp3.1/Broker.csproj.CoreCompileInputs.cache
+/Users/stratanion/Desktop/PAD1/Broker/obj/Debug/netcoreapp3.1/Broker.AssemblyInfoInputs.cache
+/Users/stratanion/Desktop/PAD1/Broker/obj/Debug/netcoreapp3.1/Broker.AssemblyInfo.cs
+/Users/stratanion/Desktop/PAD1/Broker/obj/Debug/netcoreapp3.1/Broker.csproj.CopyComplete
+/Users/stratanion/Desktop/PAD1/Broker/obj/Debug/netcoreapp3.1/Broker.dll
+/Users/stratanion/Desktop/PAD1/Broker/obj/Debug/netcoreapp3.1/Broker.pdb
+/Users/stratanion/Desktop/PAD1/Broker/obj/Debug/netcoreapp3.1/Broker.genruntimeconfig.cache

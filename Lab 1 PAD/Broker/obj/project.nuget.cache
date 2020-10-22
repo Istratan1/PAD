@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iOZ50ylTQf8x7kXpxk5vbxV2muVjhx+O0HsabOe+JeOPno42UT1fe/EA6+YOgfWmwq56Dy/iYoEbftgGzbjaZg==",
+  "success": true,
+  "projectFilePath": "/Users/stratanion/Desktop/PAD1/Broker/Broker.csproj",
+  "expectedPackageFiles": [
+    "/Users/stratanion/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
